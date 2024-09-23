@@ -104,3 +104,5 @@ The app performs the following steps:
 
 ## License
 This project is licensed under the MIT License.
+
+AI Disclaimer:This Readme is rewritten with the help of AI
