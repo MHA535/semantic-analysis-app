@@ -1,4 +1,3 @@
-Here’s the content formatted with proper Markdown:
 
 # Semantic Analysis of Website Content
 
