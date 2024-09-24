@@ -67,8 +67,8 @@ The project requires the following libraries:
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd <repo-directory>
+   git clone (https://github.com/MHA535/semantic-analysis-app.git)
+   cd semantic-analysis-app
    ```
 
 2. Install the required dependencies:
