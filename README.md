@@ -1,5 +1,5 @@
 
-# Semantic Analysis of Website Content
+# Semantic Analysis of Website Content at Sitemap Level
 
 ## Overview
 This project is a web application built with **Streamlit** for performing **semantic analysis** on website content. It allows users to load website sitemaps, analyze content, and visualize relationships between pages based on semantic similarity. The app includes features for topic modeling, cosine similarity calculations, and network visualizations.
